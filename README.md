@@ -1,4 +1,4 @@
-# Referal system project
+# Tasks bot project
 
 Простой телеграм бот для добавления задач и их просмотра.
 
